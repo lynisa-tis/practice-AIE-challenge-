@@ -14,6 +14,8 @@ How can you build 🏗️, ship 🚢, and share 🚀 your way towards achieving 
 
 It all starts now, with the Certification Challenge, which is the next step towards continuing your journey to Demo Day!
 
+The Certification Challenge is due Tuesday July 14th.
+
 > 💡 **Remember:** *You know enough already to be dangerous*. You already know enough of the concepts and code you need to build, ship, and share production AI applications!
 
 And this is what the Certification challenge is all about - putting **your skills to the test**!
@@ -22,7 +24,7 @@ And this is what the Certification challenge is all about - putting **your skill
 
 During our last cohort, here is how the numbers shook out. It took an average of 24.7 hours for people to complete the challenge.
 
-![Average completion time](image.png)
+![Average completion time](assets/image.png)
 
 It’s very much worth considering that the kind of AI Engineering work we’re doing; that is, scoping a problem, creating a solution to that problem that solves a specific pain point for real customers or stakeholders, and engineering it for scale from day 1, is extremely valuable work.
 
@@ -68,11 +70,14 @@ Once you know the problem to be solved, you must be capable of guiding your team
 
 1. Write a succinct 1-sentence description of the problem. Do not mention or imply a solution.
 2. Write 1–2 paragraphs covering:
-   - Who has the problem?
-   - What are they trying to do?
-   - How do they handle it today?
-   - Why isn't that good enough?
+   a. Who has the problem?
+   b. What are they trying to do?
+   c. How do they handle it today?
+   d. Why isn't that good enough?
 3. Create a workflow diagram illustrating the current workflow.
+   a. The Sequence of steps the user takes
+   b. The tools, systems, or documents they interact with
+   c. The points where the workflow is slow, repetitvem or error-prone
 4. Create a list of evaluation questions or input-output pairs.
 
 # Task 2: Propose a Solution
